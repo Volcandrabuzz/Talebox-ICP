@@ -148,19 +148,12 @@ We welcome contributions from anyone who would like to help improve our dapp.
 
 To contribute, please follow the following steps:
 
-1. Fork the repository to your own GitHub account: https://github.com/Destiny-01/TaleBlox-ICP
+1. Fork the repository to your own GitHub account: https://github.com/Volcandrabuzz/Talebox-ICP
 2. Create a new branch from the main branch for your changes.
 3. Make your changes and commit them with clear commit messages.
 4. Push your changes to your forked repository.
 5. Open a pull request to merge your changes into the main branch.
 
-# Team Members
-
-* Aigbe Destiny
-* Kushal Sapra
-* Chukwunonso Iwenor
-* Marvellous Aigbe
-* Sinachi Ajuzie
 
 # Acknowledgements
 

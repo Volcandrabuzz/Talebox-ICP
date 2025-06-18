@@ -1,5 +1,5 @@
   <div align="center">
-  <h1>TaleBlox</h1>
+  <h1>TaleBox</h1>
   <p>
     <strong>Craft stories, mint NFTs, reward authors on Internet Computer Protocol</strong>
   </p>

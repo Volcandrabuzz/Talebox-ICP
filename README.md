@@ -45,7 +45,7 @@ We bridges storytelling and art like never before. With AI-powered enhancements 
 First, you need to clone the repository
 
 ```
-https://github.com/Destiny-01/TaleBlox-ICP
+https://github.com/Volcandrabuzz/Talebox-ICP
 ```
 
 2. Install Dependencies
@@ -68,7 +68,7 @@ The project should now be running on `http://localhost:3000`
 
 # Usage
 
-* Visit TaleBlox in your web browser and securely sign in using Internet Identity to access the platform.
+* Visit TaleBox in your web browser and securely sign in using Internet Identity to access the platform.
 * Click "Create Story" to start crafting your narratives. Utilize AI-enhanced prompts and editing tools to shape your stories.
 * Explore the "Generate NFT Art" feature to automatically transform your stories into visually stunning NFT artworks, powered by Leonardo AI.
 * To incentivize content creators, mint NFT tokens linked to their stories by selecting "Mint NFT." This process celebrates and rewards authors.
@@ -105,7 +105,7 @@ An NFT is used to represent the index of a story associated with an NFT.
 
 ## Actor Class
 
-The TaleBlox actor class is the core component of the canister, responsible for managing stories and NFTs. It contains functions for creating stories, contributing to stories, and minting NFTs.
+The TaleBox actor class is the core component of the canister, responsible for managing stories and NFTs. It contains functions for creating stories, contributing to stories, and minting NFTs.
 
 ## Functions
 
